@@ -26,8 +26,8 @@ namespace ExecuteAutomationTraining
         {
 
 
-            ExcelDataReader util = new ExcelDataReader(); 
-            util.ExceltoDataTable(@"C:\Users\Raju\Documents\Data.xlsx");
+           // ExcelDataReader util = new ExcelDataReader(); 
+            //util.ExceltoDataTable(@"C:\Users\Raju\Documents\Selenium\Data.xlsx");
 
 
             //Title dropdown

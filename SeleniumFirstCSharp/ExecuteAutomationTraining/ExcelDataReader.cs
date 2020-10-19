@@ -16,16 +16,16 @@ namespace ExecuteAutomationTraining
             //Create open xml via ExcelReaderFactory
             IExcelDataReader excelReader = ExcelReaderFactory.CreateOpenXmlReader(stream); //.xlsx
             // Set the First Row as Column Name
-          //  excelReader.IsFirstRowColumnNames = true;
+           excelReader.IsFirstRowColumnNames = true;
             //Returns a Dataset
-           // DataSet result = excelReader.AsDataSet();
+           DataSet result = excelReader.AsDataSet();
             //Get all Tables
-           // DataTableCollection table = result.Tables;
+           DataTableCollection table = result.Tables;
             //Store in DataTable 
-            //DataTable resultTable = table["Sheet1"]; 
+            DataTable resultTable = table["Sheet1"]; 
 
             //return
-            //return resultTable; 
+            return resultTable; 
         }*/
     }
 }
