@@ -1,0 +1,13 @@
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\bin\Debug\netcoreapp3.1\SeleniuimVBFirst.exe
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\bin\Debug\netcoreapp3.1\SeleniuimVBFirst.deps.json
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\bin\Debug\netcoreapp3.1\SeleniuimVBFirst.runtimeconfig.json
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\bin\Debug\netcoreapp3.1\SeleniuimVBFirst.runtimeconfig.dev.json
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\bin\Debug\netcoreapp3.1\SeleniuimVBFirst.dll
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\bin\Debug\netcoreapp3.1\SeleniuimVBFirst.pdb
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\obj\Debug\netcoreapp3.1\SeleniuimVBFirst.vbprojAssemblyReference.cache
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\obj\Debug\netcoreapp3.1\SeleniuimVBFirst.AssemblyInfoInputs.cache
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\obj\Debug\netcoreapp3.1\SeleniuimVBFirst.AssemblyInfo.vb
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\obj\Debug\netcoreapp3.1\SeleniuimVBFirst.vbproj.CoreCompileInputs.cache
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\obj\Debug\netcoreapp3.1\SeleniuimVBFirst.dll
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\obj\Debug\netcoreapp3.1\SeleniuimVBFirst.pdb
+C:\Users\Raju\source\repos\SeleniuimFirst\SeleniuimFirst\obj\Debug\netcoreapp3.1\SeleniuimVBFirst.genruntimeconfig.cache
